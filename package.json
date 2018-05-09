@@ -1,5 +1,5 @@
 {
-  "name": "rolling-rate-limiter",
+  "name": "@fuechschen/rolling-rate-limiter",
   "version": "0.1.10",
   "description": "Rate limiter that supports a rolling window, either in-memory or backed by redis",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/classdojo/rolling-rate-limiter"
+    "url": "https://github.com/Fuechschen/rolling-rate-limiter"
   },
   "keywords": [
     "rate",
